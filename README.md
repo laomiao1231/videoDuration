@@ -1,3 +1,3 @@
 # videoDuration
 
-Analyze the video time， default support mp4, flv;
+Parse video file time length， default support mp4, flv;
